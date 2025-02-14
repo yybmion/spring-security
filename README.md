@@ -27,7 +27,7 @@
 ## 📖 정리 내용
 1. [Spring Security JWT]([docs/basic.md](https://github.com/yybmion/spring-security/tree/main/Spring_security_JWT))
 2. [Spring Security JWT_deepen]([docs/authentication.md](https://github.com/yybmion/spring-security/tree/main/Spring_security_JWT_deepen))
-3. 이후 추가
+3. Spring Batch (업로드 예정)
 
 ## 📌 참고 자료
 - Spring Security 공식 문서
